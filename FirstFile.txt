@@ -1,5 +1,5 @@
 This is first file.
 
-I am making some changes.
+I made some more changes.
 
-This is second commit.
+This is third commit.
